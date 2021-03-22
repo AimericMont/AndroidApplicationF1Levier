@@ -1,3 +1,3 @@
 # AndroidApplicationF1Levier
 
-Projet Réalisé en 4e année d'ecole d'ingénieur informatique.
+Projet Réalisé en 2e année d'école d'ingénieur informatique.
